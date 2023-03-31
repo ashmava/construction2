@@ -1,0 +1,19 @@
+.first:hover{
+	background-image:url('../images/download(c).jpeg');
+	background-size:100%;
+}
+.second:hover{
+	background-image:url('../images/download(a).jpeg');
+}
+.third:hover{
+	background-image:url('../images/download(b).jpeg');
+}
+.fourth:hover{
+	background-image:url('../images/download(d).jpeg');
+}
+.fifth:hover{
+	background-image:url('../images/download(e).jpeg');
+}
+.sixth:hover{
+	background-image:url('../images/images (1).jpeg');
+}
